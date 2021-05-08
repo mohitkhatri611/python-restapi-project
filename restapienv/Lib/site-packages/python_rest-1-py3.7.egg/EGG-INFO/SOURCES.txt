@@ -1,0 +1,10 @@
+setup.py
+employee/__init__.py
+employee/asgi.py
+employee/settings.py
+employee/urls.py
+employee/wsgi.py
+python_rest.egg-info/PKG-INFO
+python_rest.egg-info/SOURCES.txt
+python_rest.egg-info/dependency_links.txt
+python_rest.egg-info/top_level.txt
